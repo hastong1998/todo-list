@@ -1,0 +1,210 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Task title 1",
+      "description": "Task description...",
+      "createdAt": "01 Jan 2024",
+      "status": "completed"
+    },
+    {
+      "id": 2,
+      "title": "Task title 2",
+      "description": "Task description...",
+      "createdAt": "01 Jan 2024",
+      "status": "completed"
+    },
+    {
+      "id": 1717126118218,
+      "title": "test",
+      "description": "21341234",
+      "createdAt": "10:28:38 31/5/2024",
+      "status": "completed"
+    },
+    {
+      "title": "test",
+      "description": "hello",
+      "createdAt": "13:56:01 31/5/2024",
+      "status": "completed",
+      "id": 1717138561821
+    },
+    {
+      "title": "test",
+      "description": "32142143",
+      "createdAt": "14:00:33 31/5/2024",
+      "status": "completed",
+      "id": 1717138833451
+    },
+    {
+      "title": "é",
+      "description": "ưeqrqwer",
+      "createdAt": "14:03:15 31/5/2024",
+      "status": "completed",
+      "id": 1717138995492
+    },
+    {
+      "title": "tes",
+      "description": "12341234",
+      "createdAt": "14:03:32 31/5/2024",
+      "status": "completed",
+      "id": 1717139012399
+    },
+    {
+      "title": "testse",
+      "description": "23421341",
+      "createdAt": "14:03:49 31/5/2024",
+      "status": "in-progress",
+      "id": 1717139029052
+    },
+    {
+      "title": "teses",
+      "description": "qerewqr",
+      "createdAt": "14:09:48 31/5/2024",
+      "status": "completed",
+      "id": 1717139388484
+    },
+    {
+      "title": "4321234",
+      "description": "21341234",
+      "createdAt": "14:09:52 31/5/2024",
+      "status": "todo",
+      "id": 1717139392289
+    },
+    {
+      "title": "1324",
+      "description": "1234123",
+      "createdAt": "14:10:29 31/5/2024",
+      "status": "todo",
+      "id": 1717139429374
+    },
+    {
+      "title": "etwq",
+      "description": "2134",
+      "createdAt": "14:11:44 31/5/2024",
+      "status": "todo",
+      "id": 1717139504097
+    },
+    {
+      "title": "weqrq",
+      "description": "qewrqwer",
+      "createdAt": "14:14:23 31/5/2024",
+      "status": "completed",
+      "id": 1717139663746
+    },
+    {
+      "title": "tewq",
+      "description": "qưerqwer",
+      "createdAt": "14:18:50 31/5/2024",
+      "status": "todo",
+      "image": "https://picsum.photos/320/300",
+      "id": 1717139930987
+    },
+    {
+      "title": "ewqrqw",
+      "description": "qưerqwe",
+      "createdAt": "14:19:28 31/5/2024",
+      "status": "todo",
+      "image": "https://picsum.photos/320/300",
+      "id": 1717139968288
+    },
+    {
+      "title": "tết",
+      "description": "ewqrqwerqw",
+      "createdAt": "14:31:16 31/5/2024",
+      "status": "todo",
+      "id": 1717140676786
+    },
+    {
+      "title": "test",
+      "description": "2132314",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:36:18 31/5/2024",
+      "status": "in-progress",
+      "id": 1717148178777
+    },
+    {
+      "title": "test",
+      "description": "21342134",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:36:41 31/5/2024",
+      "status": "todo",
+      "id": 1717148202009
+    },
+    {
+      "title": "test",
+      "description": "test",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:37:43 31/5/2024",
+      "status": "todo",
+      "id": 1717148263294
+    },
+    {
+      "title": "test",
+      "description": "ưeqrqwer",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:38:52 31/5/2024",
+      "status": "todo",
+      "id": 1717148332053
+    },
+    {
+      "title": "test",
+      "description": "1232",
+      "image": "",
+      "createdAt": "16:39:29 31/5/2024",
+      "status": "todo",
+      "id": 1717148369949
+    },
+    {
+      "title": "test",
+      "description": "213",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:40:30 31/5/2024",
+      "status": "todo",
+      "id": 1717148430658
+    },
+    {
+      "title": "test",
+      "description": "231",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:42:36 31/5/2024",
+      "status": "todo",
+      "id": 1717148556134
+    },
+    {
+      "title": "tets",
+      "description": "2134",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:43:06 31/5/2024",
+      "status": "todo",
+      "id": 1717148586499
+    },
+    {
+      "title": "test",
+      "description": "2134",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:45:00 31/5/2024",
+      "status": "todo",
+      "id": 1717148700399
+    },
+    {
+      "title": "te213",
+      "description": "etqwwer",
+      "image": "https://picsum.photos/200/300",
+      "createdAt": "16:45:17 31/5/2024",
+      "status": "todo",
+      "id": 1717148717586
+    }
+  ],
+  "news": [
+    {
+      "id": 1,
+      "title": "News title 1",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    },
+    {
+      "id": 2,
+      "title": "News title 2",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    }
+  ]
+}
