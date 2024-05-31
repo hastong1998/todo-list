@@ -1,5 +1,5 @@
 <template>
-    <div>
+    <div v-if="news.length > 0">
         <div class="container mt-4">
             <h2 class="mb-4">Company News</h2>
             <div class="row mb-5">
