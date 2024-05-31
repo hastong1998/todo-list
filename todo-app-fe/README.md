@@ -42,7 +42,7 @@ To run the project locally, use the following commands:
    npm run dev
    ```
 
-   This will start the Vite development server and you can access the application at `http://localhost:3000`.
+   This will start the Vite development server and you can access the application at `http://localhost:5173`.
 
 2. **Build for production:**
 
