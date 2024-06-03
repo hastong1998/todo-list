@@ -38,14 +38,19 @@
                     </div>
                 </div>
             </nav>
+            <modal-add-todo />
         </div>
     </header>
 </template>
 
 <script>
 import { mapGetters } from 'vuex';
+import ModalAddTodo from './ModalAddTodo.vue';
 export default {
     name: 'Header',
+    components: {
+        ModalAddTodo
+    },
     computed: {
         ...mapGetters(['todoCount', 'inProgressCount', 'completedCount'])
     }
