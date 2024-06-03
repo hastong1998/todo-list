@@ -1,4 +1,3 @@
-
 # Vite Vue Project Setup Guide
 
 This guide provides instructions to set up and run both the backend (BE) and frontend (FE) of the project.
@@ -16,7 +15,7 @@ Follow these steps to set up and run the backend server:
 2. **Start the server:**
 
    ```bash
-   node server.js
+   npm run dev
    ```
 
    The backend server will run on port 3000.
